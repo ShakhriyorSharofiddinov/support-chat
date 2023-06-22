@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577079618541",
+    "project_id": "shaxriyor-c4349",
+    "storage_bucket": "shaxriyor-c4349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577079618541:android:422039261c4aed27db95e4",
+        "android_client_info": {
+          "package_name": "sharofiddinov.uz.shakhriyor_sharofiddinov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577079618541-pvp2m41485vf93lotbq42hp5hciar0bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt2X2SenumE2hK2mONV2ZB4WcjqCnfvAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577079618541-pvp2m41485vf93lotbq42hp5hciar0bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
